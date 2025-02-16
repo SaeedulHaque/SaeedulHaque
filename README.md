@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saeedul Haque</h1>
 <h3 align="center">I am a deep learning researcher and engineer specializing in computer vision, signal processing, and machine learning. Currently, I am studying Electronics and Telecommunication Engineering at Rajshahi University of Engineering and Technology (RUET). My work focuses on developing and optimizing models for medical imaging, classification, and real-world applications. I actively work with datasets leveraging TensorFlow and Kaggle for research. Passionate about innovation, I continuously refine architectures to improve efficiency and accuracy.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="saeedulhaque" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedulhaque" alt="saeedulhaque" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
