@@ -44,6 +44,62 @@ My current interests sit at the intersection of:
 
 I enjoy working across the full stack of an AI system — from **model architecture and experimentation to APIs, pipelines, deployment, and real-world integration**.
 
+## 🚀 What I'm Working With
+
+### 🤖 Artificial Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Systems-412991?style=for-the-badge" />
+</p>
+
+### 👁️ Computer Vision
+
+<p>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/PaddleOCR-0A7AFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Vision_Transformers-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multimodal_AI-FF4B4B?style=for-the-badge" />
+</p>
+
+### ⚙️ Engineering & Backend
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🧩 AI Systems
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+</p>
+
+### 🔌 Embedded & Robotics
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded_Systems-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Robotics-555555?style=for-the-badge" />
+</p>
+
+---
+
+
 ```text
                  ┌──────────────────────────┐
                  │       REAL WORLD         │
@@ -102,60 +158,6 @@ I'm particularly interested in **efficient and adaptable intelligent systems** t
 
 ---
 
-## 🚀 What I'm Working With
-
-### 🤖 Artificial Intelligence
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM_Systems-412991?style=for-the-badge" />
-</p>
-
-### 👁️ Computer Vision
-
-<p>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" />
-<img src="https://img.shields.io/badge/PaddleOCR-0A7AFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Vision_Transformers-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multimodal_AI-FF4B4B?style=for-the-badge" />
-</p>
-
-### ⚙️ Engineering & Backend
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🧩 AI Systems
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
-</p>
-
-### 🔌 Embedded & Robotics
-
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded_Systems-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Robotics-555555?style=for-the-badge" />
-</p>
-
----
 
 ## 🧪 Projects
 
