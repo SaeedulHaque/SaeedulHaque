@@ -20,7 +20,13 @@ AI Engineer • Aspiring Researcher • Computer Vision • Multimodal AI • Ro
 </p>
 
 ---
+## 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
 ## 🧠 About Me
 
 I'm an **AI Engineer and aspiring researcher** interested in building intelligent systems that can **perceive, understand, reason, and eventually act in real-world environments**.
@@ -252,15 +258,6 @@ From autonomous vehicles to humanoid robots, I am especially interested in how a
         ↓
       ADAPT 🔄
 ```
-
----
-
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
 
 ---
 
