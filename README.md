@@ -255,21 +255,6 @@ From autonomous vehicles to humanoid robots, I am especially interested in how a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SaeedulHaque&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    height="180"
-    alt="Saeedul Haque's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedulHaque&layout=compact&langs_count=8&hide_border=true"
-    height="180"
-    alt="Saeedul Haque's Top Languages"
-  />
-</p>
----
 
 ## 🐍 Contribution Graph
 
